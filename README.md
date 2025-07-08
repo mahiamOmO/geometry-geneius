@@ -1,1 +1,1 @@
-# geometry-geneius
+# geometry-genius
